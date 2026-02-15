@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "f85dff8fbbd72368",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94d8359143b7d48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d349e956dc48a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Pokemon Sleep/Recipes.canvas",
+                "viewState": {
+                  "x": -235.16296255993092,
+                  "y": -213.83032702437407,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Recipes"
+            }
+          },
+          {
+            "id": "e9abb53467dd8d57",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Pokemon Sleep/Recipes.canvas",
+                "viewState": {
+                  "x": -27.476048218029362,
+                  "y": -25.211367924192416,
+                  "zoom": 0.851949311481826
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Recipes"
+            }
+          },
+          {
+            "id": "2fe1f9f55e34648b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Pokemon Sleep/Evaluate.canvas",
+                "viewState": {
+                  "x": 750.5495127821603,
+                  "y": 356.66970012706315,
+                  "zoom": -1.222222137451172
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Evaluate"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b4322c7a71550a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b616c67a5198dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f347dca82e737122",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fd10f3b67e454ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa185e209086d47b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae3771cef491edc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd507708e687100f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef75d2e019156d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8a65dac0ef72ee7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "84ab96d17d6a6433",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "babc98911dbcba9f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a37669207d9bd103",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e9abb53467dd8d57",
+  "lastOpenFiles": [
+    "Pokemon Sleep/Evaluate.canvas",
+    "Pokemon Sleep/Eevee guide.canvas",
+    "Pokemon Sleep/Recipes.canvas",
+    "Pokemon Sleep/Pokemon Sleep.md",
+    "Pokemon Sleep/Pictures/Pasted image 20260123203017.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260123203001.png",
+    "Recipes.md",
+    "Pokemon Sleep/Where to find X.canvas",
+    "Pokemon Sleep/Features guide.canvas",
+    "Pokemon Sleep/Pictures/Pasted image 20260119215755.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260119215711.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260119214952.png",
+    "Pokemon Sleep/Pictures",
+    "Pokemon Sleep",
+    "Eevee guide.md",
+    "Pokemon Sleep/Pictures/Pasted image 20260119220450.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260119220436.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260119220429.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260119220421.png",
+    "Pokemon Sleep/Pictures/Pasted image 20260119220412.png",
+    "Untitled 1.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
