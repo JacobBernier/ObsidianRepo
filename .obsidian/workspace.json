@@ -11,10 +11,14 @@
             "id": "aade7992bcd92a11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Cuisine/Cuisine/Welcome.md",
+                "bFile": "Cuisine/Cuisine/Welcome.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Welcome  (Working Tree)"
             }
           }
         ]
@@ -189,13 +193,28 @@
   },
   "active": "aade7992bcd92a11",
   "lastOpenFiles": [
+    "Cuisine/Cuisine/Collations/Muffins aux bananes et aux pépites de chocolat.md",
+    "Cuisine/Cuisine/Collations/Collations.md",
+    "Cuisine/Cuisine/Recettes.md",
+    "Cuisine/Cuisine/Souper/Souper.md",
+    "Cuisine/Cuisine/Souper/Rigatonis « trempette aux artichauts ».md",
+    "Cuisine/Cuisine/Souper/Filets de porc glacés à l'érable.md",
+    "Cuisine/Cuisine/Souper/Quesadillas de poulet.md",
+    "Cuisine/Cuisine/Souper/Poulet sauce BBQ.md",
+    "Cuisine/Cuisine/Pictures/Pasted image 20260215174416.png",
+    "Cuisine/Cuisine/Collations",
+    "Cuisine/Cuisine/Pictures/Pasted image 20260215173843.png",
+    "Cuisine/Cuisine/Pictures/Pasted image 20260215173612.png",
+    "Cuisine/Cuisine/Pictures/Pasted image 20260215172957.png",
+    "Cuisine/Cuisine/Pictures",
+    "Pasted image 20260215172935.png",
+    "Cuisine/Cuisine/Souper",
     "GamesGuide/Pokemon Sleep/Eevee guide.canvas",
     "GamesGuide/Pokemon Sleep/Evaluate.canvas",
     "GamesGuide/Pokemon Sleep/Features guide.canvas",
     "GamesGuide/Pokemon Sleep/Pokemon Sleep.md",
     "GamesGuide/Pokemon Sleep/Recipes.canvas",
     "GamesGuide/Pokemon Sleep/Where to find X.canvas",
-    "GamesGuide/Pokemon Sleep/Specific guides",
-    "Cuisine/Cuisine/Welcome.md"
+    "GamesGuide/Pokemon Sleep/Specific guides"
   ]
 }
