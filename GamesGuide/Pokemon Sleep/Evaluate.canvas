@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"a7213d22775e5ca5","type":"file","file":"Pokemon Sleep/Pictures/Pasted image 20260119214952.png","x":-460,"y":-440,"width":400,"height":900},
-		{"id":"de37c416f310fbf1","type":"file","file":"Pokemon Sleep/Pictures/Pasted image 20260119215302.png","x":-20,"y":-440,"width":720,"height":1186},
-		{"id":"ced709ed649d7a34","type":"file","file":"Pokemon Sleep/Pictures/Pasted image 20260119215755.png","x":-300,"y":746,"width":894,"height":503},
-		{"id":"e8bcf543ee2a31d1","type":"file","file":"Pokemon Sleep/Pictures/Pasted image 20260119220013.png","x":737,"y":-428,"width":1343,"height":1162}
+		{"id":"a7213d22775e5ca5","type":"file","file":"GamesGuide/Pokemon Sleep/Pictures/Pasted image 20260119214952.png","x":-460,"y":-440,"width":400,"height":900},
+		{"id":"de37c416f310fbf1","type":"file","file":"GamesGuide/Pokemon Sleep/Pictures/Pasted image 20260119215302.png","x":-20,"y":-440,"width":720,"height":1186},
+		{"id":"ced709ed649d7a34","type":"file","file":"GamesGuide/Pokemon Sleep/Pictures/Pasted image 20260119215755.png","x":-300,"y":746,"width":894,"height":503},
+		{"id":"e8bcf543ee2a31d1","type":"file","file":"GamesGuide/Pokemon Sleep/Pictures/Pasted image 20260119220013.png","x":737,"y":-428,"width":1343,"height":1162}
 	],
 	"edges":[]
 }

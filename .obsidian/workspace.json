@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bded1f36de97420",
+        "id": "82fc485cfbb7a58b",
         "type": "tabs",
         "children": [
           {
-            "id": "e9abf75d178e3047",
+            "id": "aade7992bcd92a11",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,6 +187,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9abf75d178e3047",
-  "lastOpenFiles": []
+  "active": "aade7992bcd92a11",
+  "lastOpenFiles": [
+    "GamesGuide/Pokemon Sleep/Eevee guide.canvas",
+    "GamesGuide/Pokemon Sleep/Evaluate.canvas",
+    "GamesGuide/Pokemon Sleep/Features guide.canvas",
+    "GamesGuide/Pokemon Sleep/Pokemon Sleep.md",
+    "GamesGuide/Pokemon Sleep/Recipes.canvas",
+    "GamesGuide/Pokemon Sleep/Where to find X.canvas",
+    "GamesGuide/Pokemon Sleep/Specific guides",
+    "Cuisine/Cuisine/Welcome.md"
+  ]
 }
