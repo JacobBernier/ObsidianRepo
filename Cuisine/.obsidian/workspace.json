@@ -1,79 +1,41 @@
 {
   "main": {
-    "id": "f85dff8fbbd72368",
+    "id": "15dc2987f988b975",
     "type": "split",
     "children": [
       {
-        "id": "f94d8359143b7d48",
+        "id": "95479a8647ee0deb",
         "type": "tabs",
         "children": [
           {
-            "id": "09d349e956dc48a3",
+            "id": "a58f4e725511fdc0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Pokemon Sleep/Recipes.canvas",
-                "viewState": {
-                  "x": -235.16296255993092,
-                  "y": -213.83032702437407,
-                  "zoom": 1
-                }
+                "file": "Cuisine/Collations/Muffins aux bananes et aux pépites de chocolat.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Recipes"
-            }
-          },
-          {
-            "id": "e9abb53467dd8d57",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Pokemon Sleep/Eevee guide.canvas",
-                "viewState": {
-                  "x": 34,
-                  "y": 214.5,
-                  "zoom": -0.679488951725816
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Eevee guide"
-            }
-          },
-          {
-            "id": "2fe1f9f55e34648b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Pokemon Sleep/Evaluate.canvas",
-                "viewState": {
-                  "x": 750.5495127821603,
-                  "y": 356.66970012706315,
-                  "zoom": -1.222222137451172
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Evaluate"
+              "icon": "lucide-file",
+              "title": "Muffins aux bananes et aux pépites de chocolat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "35b4322c7a71550a",
+    "id": "1937f854ba51a967",
     "type": "split",
     "children": [
       {
-        "id": "5b616c67a5198dee",
+        "id": "14e6eb0b8b5654ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f347dca82e737122",
+            "id": "0baf40263c99e44f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,7 +48,7 @@
             }
           },
           {
-            "id": "3fd10f3b67e454ab",
+            "id": "0effc26f59789b2f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,7 +65,7 @@
             }
           },
           {
-            "id": "aa185e209086d47b",
+            "id": "d3254a95613fd5dd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -119,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "ae3771cef491edc1",
+    "id": "5220aea9b2c6e084",
     "type": "split",
     "children": [
       {
-        "id": "bd507708e687100f",
+        "id": "74e6fb6a20a769b3",
         "type": "tabs",
         "children": [
           {
-            "id": "cef75d2e019156d6",
+            "id": "aacfc74c0352128d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -145,7 +107,7 @@
             }
           },
           {
-            "id": "8a65dac0ef72ee7b",
+            "id": "3820f5fb2077cb2d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -158,7 +120,7 @@
             }
           },
           {
-            "id": "84ab96d17d6a6433",
+            "id": "51039bb5f0480c2e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,7 +135,7 @@
             }
           },
           {
-            "id": "babc98911dbcba9f",
+            "id": "2ed8bb333a310217",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -187,7 +149,7 @@
             }
           },
           {
-            "id": "a37669207d9bd103",
+            "id": "3e6930cb943546dc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -218,30 +180,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e9abb53467dd8d57",
+  "active": "a58f4e725511fdc0",
   "lastOpenFiles": [
-    "Pokemon Sleep/Features guide.canvas",
-    "Pokemon Sleep/Evaluate.canvas",
-    "Pokemon Sleep/Eevee guide.canvas",
-    "Pokemon Sleep/Recipes.canvas",
-    "Pokemon Sleep/Pokemon Sleep.md",
-    "Pokemon Sleep/Pictures/Pasted image 20260123203017.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260123203001.png",
-    "Recipes.md",
-    "Pokemon Sleep/Where to find X.canvas",
-    "Pokemon Sleep/Pictures/Pasted image 20260119215755.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260119215711.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260119214952.png",
-    "Pokemon Sleep/Pictures",
-    "Pokemon Sleep",
-    "Eevee guide.md",
-    "Pokemon Sleep/Pictures/Pasted image 20260119220450.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260119220436.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260119220429.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260119220421.png",
-    "Pokemon Sleep/Pictures/Pasted image 20260119220412.png",
-    "Untitled 1.md",
-    "Welcome.md",
-    "create a link.md"
+    "Cuisine/Collations/Collations.md",
+    "Cuisine/Collations/Muffins aux bananes et aux pépites de chocolat.md",
+    "Cuisine/Souper/Souper.md",
+    "Cuisine/Souper/Rigatonis « trempette aux artichauts ».md",
+    "Cuisine/Souper/Quesadillas de poulet.md",
+    "Cuisine/Souper/Poulet sauce BBQ.md",
+    "Cuisine/Souper/Filets de porc glacés à l'érable.md"
   ]
 }

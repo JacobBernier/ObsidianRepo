@@ -13,3 +13,5 @@
 [[Filets de porc glacés à l'érable]]
 
 [[Rouleaux de printemps au poulet et sauce aux arachides]]
+
+[[Côtelettes de porc et kale, sauce à la crème]]
